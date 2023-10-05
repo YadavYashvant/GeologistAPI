@@ -1,2 +1,2 @@
 # GeologistAPI
-Building an API in Ktor.
+Building an API service in Ktor.
